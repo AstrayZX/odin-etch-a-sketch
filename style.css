@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 960px;
+    width: 960px;
+}
+
+.newSketchpad{
+    margin-bottom: 25px;
+}
